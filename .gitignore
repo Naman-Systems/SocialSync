@@ -26,6 +26,8 @@ Thumbs.db
 
 # Claude Code internal workspace
 .claude/
+.agents/
+.codex/
 
 # Interview & prep notes (private)
 prepare/
